@@ -1,0 +1,30 @@
+/*
+* Author: Goran Militarov <goran.militarov[@]fonis.rs>
+* Date:   24.05.2012.
+*/
+
+body {
+	background-color: #F1F1F1;
+}
+
+.wrapper {
+	margin: 0 auto;
+	margin-top: 17%;
+	width: 80%;
+}
+
+.text {
+	font-family: "Open sans", Arial;
+	font-size: 210%;
+	color: #014b7c;
+	text-align: center;
+}
+
+.text a {
+	color: #ff9900;
+}
+
+.mid {
+	font-size: 18px;
+	margin-top: 3%;
+}
